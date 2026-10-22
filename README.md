@@ -16,7 +16,7 @@ Todo el sitio vive en un único archivo, `index.html` (estilos, logotipo y scrip
 3. Guardar. A los pocos minutos la página queda disponible en
    `https://ingridcorzo-wq.github.io/landing-zowie/`.
 
-## Antes de difundir
+## Contacto
 
-- Completar los textos marcados como **[Pendiente: …]** (enlace oficial de inscripción y lista de documentos).
-- Confirmar que el número 0424-8578336 recibe WhatsApp (el botón flotante lo usa).
+- WhatsApp y teléfono: 0424-8578336
+- Correo: direccionacadccdzowie@gmail.com
