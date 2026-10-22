@@ -20,3 +20,14 @@ Todo el sitio vive en un único archivo, `index.html` (estilos, logotipo y scrip
 
 - WhatsApp y teléfono: 0424-8578336
 - Correo: direccionacadccdzowie@gmail.com
+
+## Formulario de contacto
+
+El formulario de la sección *Escríbenos* envía los mensajes con [FormSubmit](https://formsubmit.co) (gratuito, sin servidor propio):
+
+- Destinatario principal: direccionacadccdzowie@gmail.com (Pamela Tuarez)
+- Copia: ingridcorzo@gmail.com
+- La persona que escribe recibe una confirmación automática en su correo.
+- Después de enviar, se muestra `gracias.html`.
+
+**Activación (una sola vez):** con el primer envío, FormSubmit manda un correo de activación a direccionacadccdzowie@gmail.com. Hay que pulsar *Activate Form*; desde ese momento los mensajes llegan normalmente. Para cambiar el destinatario, editar el `action` del formulario en `index.html` (requiere activar de nuevo).
